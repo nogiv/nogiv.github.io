@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nogiv.github.io/cTB/sitemap.cTB.gz
